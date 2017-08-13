@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1501780146
+#1502661879
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -11,6 +11,7 @@ images/trampulim-sheet1.png
 images/botãoinvd-sheet0.png
 images/botãoinve-sheet0.png
 images/inimigocima-sheet0.png
+images/inimigocima-sheet1.png
 images/inimigolado-sheet0.png
 images/parada-sheet0.png
 images/projetil-sheet0.png
@@ -38,6 +39,11 @@ images/personagem_char-sheet1.png
 images/personagem_char-sheet2.png
 images/personagem_char-sheet3.png
 images/sensorinimigo-sheet0.png
+media/orcsgrow.m4a
+media/orcsgrow.ogg
+media/386694__laurenmg95__stone-footstep-4.m4a
+media/386694__laurenmg95__stone-footstep-4.ogg
+media/a%20himitsu%20-%20easier%20to%20fade%20(feat.%20madi%20larson).ogg
 icon-16.png
 icon-32.png
 icon-114.png

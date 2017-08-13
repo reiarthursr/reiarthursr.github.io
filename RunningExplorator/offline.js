@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1501780146,
+	"version": 1502661879,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,7 @@
 		"images/botãoinvd-sheet0.png",
 		"images/botãoinve-sheet0.png",
 		"images/inimigocima-sheet0.png",
+		"images/inimigocima-sheet1.png",
 		"images/inimigolado-sheet0.png",
 		"images/parada-sheet0.png",
 		"images/projetil-sheet0.png",
@@ -39,6 +40,11 @@
 		"images/personagem_char-sheet2.png",
 		"images/personagem_char-sheet3.png",
 		"images/sensorinimigo-sheet0.png",
+		"media/orcsgrow.m4a",
+		"media/orcsgrow.ogg",
+		"media/386694__laurenmg95__stone-footstep-4.m4a",
+		"media/386694__laurenmg95__stone-footstep-4.ogg",
+		"media/a himitsu - easier to fade (feat. madi larson).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
