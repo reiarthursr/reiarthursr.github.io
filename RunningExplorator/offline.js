@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502662387,
+	"version": 1503875908,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,10 +36,9 @@
 		"images/tutorialdireita-sheet0.png",
 		"images/seta-sheet0.png",
 		"images/personagem_char-sheet0.png",
-		"images/personagem_char-sheet1.png",
-		"images/personagem_char-sheet2.png",
-		"images/personagem_char-sheet3.png",
 		"images/sensorinimigo-sheet0.png",
+		"images/som-sheet0.png",
+		"images/pause-sheet0.png",
 		"media/orcsgrow.m4a",
 		"media/orcsgrow.ogg",
 		"media/386694__laurenmg95__stone-footstep-4.m4a",
