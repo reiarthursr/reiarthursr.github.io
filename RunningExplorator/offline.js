@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503875908,
+	"version": 1504292923,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,8 @@
 		"images/sensorinimigo-sheet0.png",
 		"images/som-sheet0.png",
 		"images/pause-sheet0.png",
+		"images/luzp-sheet0.png",
+		"images/luzlaranja-sheet0.png",
 		"media/orcsgrow.m4a",
 		"media/orcsgrow.ogg",
 		"media/386694__laurenmg95__stone-footstep-4.m4a",
