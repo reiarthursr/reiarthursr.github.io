@@ -1,6 +1,6 @@
 ﻿{
-	"name": "RuningExplorator",
-	"short_name": "RuningExplorator",
+	"name": "Run And Explore",
+	"short_name": "Run And Explore",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",

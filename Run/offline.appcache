@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504482144
+#1504532103
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -31,7 +31,6 @@ images/sensortransição2-sheet0.png
 images/sensorfimdefase-sheet0.png
 images/espinhos.png
 images/sensormorte-sheet0.png
-images/seta-sheet0.png
 images/personagem_char-sheet0.png
 images/sensorinimigo-sheet0.png
 images/som-sheet0.png
@@ -40,6 +39,16 @@ images/luzp-sheet0.png
 images/luzlaranja-sheet0.png
 images/lava.png
 images/sprite-sheet0.png
+images/falas-sheet0.png
+media/89933__cormi__insectspider-riding.m4a
+media/89933__cormi__insectspider-riding.ogg
+media/walk_3.ogg
+media/336217__robinhood76__06348-distant-ghost-howl.m4a
+media/336217__robinhood76__06348-distant-ghost-howl.ogg
+media/175226__minigunfiend__creatures-scuttle-fast-01.m4a
+media/175226__minigunfiend__creatures-scuttle-fast-01.ogg
+media/69391__zixem__cave-amb.m4a
+media/69391__zixem__cave-amb.ogg
 icon-16.png
 icon-32.png
 icon-114.png
