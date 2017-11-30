@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1510162684,
+	"version": 1512078646,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,11 +34,15 @@
 		"images/pauseopções-sheet0.png",
 		"images/botãoreiniciarfase-sheet0.png",
 		"images/logo-sheet0.png",
+		"images/bandeira-sheet0.png",
+		"images/bandeira-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"idioma.br.xml",
+		"idioma.en.xml"
 	]
 }

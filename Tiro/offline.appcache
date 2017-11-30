@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1510162684
+#1512078646
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -33,11 +33,15 @@ images/fundop-sheet0.png
 images/pauseopções-sheet0.png
 images/botãoreiniciarfase-sheet0.png
 images/logo-sheet0.png
+images/bandeira-sheet0.png
+images/bandeira-sheet1.png
 icon-16.png
 icon-32.png
 icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
+idioma.br.xml
+idioma.en.xml
 NETWORK:
 *
