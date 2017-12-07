@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<textos>
+	<texto id='descricao'>Olá, esse é um texto carregado de arquivo.</texto>
+	<texto id='historia'>Era uma vez, uma turma muito bacana...</texto>
+	<botao id='creditos'>Creditos</botao>
+</textos>
