@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<textos>
+	<texto id='descricao'>Hi, this text has been loaded from file.</texto>
+	<texto id='historia'>Once upon a time, there was a really cool classroom...</texto>
+	<botao id='creditos'>Credits</botao>
+</textos>
