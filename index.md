@@ -9,7 +9,8 @@ Text can be **Criando**, _minha_, or ~~página~~.
 
 ## Games
 
-[Animal Skills](https://reiarthursr.github.io/Animal%20Skills/) [Hard Mode](https://reiarthursr.github.io/Animal%20Skills%20Hardcore/)
+[![](AnimalSkills.PNG)](https://reiarthursr.github.io/Animal%20Skills/)
+[Hard Mode](https://reiarthursr.github.io/Animal%20Skills%20Hardcore/)
 
 ## Artes
 
