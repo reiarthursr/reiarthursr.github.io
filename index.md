@@ -13,7 +13,7 @@ Text can be **Criando**, _minha_, or ~~página~~.
 
 ## Artes
 
-![](Lizard Head.gif)
+![](LizardHead.gif)
 
 * * * 
 
