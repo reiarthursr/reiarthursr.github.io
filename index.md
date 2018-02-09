@@ -3,7 +3,7 @@
 layout: default
 ---
 
-Text can be **Criando**, _minha_, or ~~página~~.
+**Criando**, _minha_, or ~~página~~.
 
 # Produções  
 
