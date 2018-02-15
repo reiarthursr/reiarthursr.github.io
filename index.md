@@ -30,6 +30,3 @@ Tower Defense
 __ italico  
 ~~~~ cortado  
    dois espaços para pular linha
-
-* * * 
-
