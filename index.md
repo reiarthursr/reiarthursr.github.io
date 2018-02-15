@@ -23,10 +23,3 @@ Tower Defense
 ## Artes  
 
 ![](LizardHead.gif)
-
-* * * 
-
-** negrito  
-__ italico  
-~~~~ cortado  
-   dois espaços para pular linha
