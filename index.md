@@ -26,10 +26,12 @@
 
 * * *  
 
-## Redes Sociais  
+## Contatos pessoais
 
 [Facebook](https://www.facebook.com/athur.soaresramalho)  
 [![](Facebook.png)](https://www.facebook.com/athur.soaresramalho)  
 
 [Github](https://github.com/reiarthursr)  
 [![](Github.png)](https://github.com/reiarthursr)  
+
+E-mail: reiarthursr@gmail.com  
