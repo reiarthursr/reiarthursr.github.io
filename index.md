@@ -1,6 +1,18 @@
 # Quem sou eu?  
 
-Eu sou Arthur Soares Ramalho e estou cursando o 3° ano de programação de jogos Digitais, IFRN-campus Ceará-Mirim/RN.
+Eu sou Arthur Soares Ramalho e estou cursando o 3° ano de programação de jogos Digitais, IFRN-campus Ceará-Mirim/RN.  
+
+* * *  
+
+# Contatos pessoais  
+
+[Facebook](https://www.facebook.com/athur.soaresramalho)  
+[![](Facebook.png)](https://www.facebook.com/athur.soaresramalho)  
+
+[Github](https://github.com/reiarthursr)  
+[![](Github.png)](https://github.com/reiarthursr)  
+
+E-mail: reiarthursr@gmail.com  
 
 * * *  
 
@@ -32,12 +44,6 @@ Eu sou Arthur Soares Ramalho e estou cursando o 3° ano de programação de jogo
 
 * * *  
 
-# Contatos pessoais
+## Influence Map  
 
-[Facebook](https://www.facebook.com/athur.soaresramalho)  
-[![](Facebook.png)](https://www.facebook.com/athur.soaresramalho)  
-
-[Github](https://github.com/reiarthursr)  
-[![](Github.png)](https://github.com/reiarthursr)  
-
-E-mail: reiarthursr@gmail.com  
+![](InfluenceMap.png)
