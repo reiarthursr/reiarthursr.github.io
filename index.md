@@ -1,3 +1,9 @@
+# Quem sou eu?  
+
+Eu sou Arthur Soares Ramalho e estou cursando o 3° ano de programação de jogos Digitais, IFRN-campus Ceará-Mirim/RN.
+
+* * *  
+
 # Produções  
 
 ## Games  
