@@ -44,13 +44,13 @@ E-mail: reiarthursr@gmail.com
 
 * * *  
 
-## Influence Map  
+# Influence Map  
 
 ![](InfluenceMap.png)  
 
 * * *  
 
-## Projetos desenvolvidos  
+# Projetos desenvolvidos  
 
 Projeto de Interface - Maquete 3D de um Jogo  
 
