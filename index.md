@@ -32,7 +32,7 @@ Eu sou Arthur Soares Ramalho e estou cursando o 3° ano de programação de jogo
 
 * * *  
 
-## Contatos pessoais
+# Contatos pessoais
 
 [Facebook](https://www.facebook.com/athur.soaresramalho)  
 [![](Facebook.png)](https://www.facebook.com/athur.soaresramalho)  
