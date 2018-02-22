@@ -46,4 +46,14 @@ E-mail: reiarthursr@gmail.com
 
 ## Influence Map  
 
-![](InfluenceMap.png)
+![](InfluenceMap.png)  
+
+* * *  
+
+## Projetos desenvolvidos  
+
+Projeto de Interface - Maquete 3D de um Jogo  
+
+Orientador (a): Marcelo de Barros Barbosa  
+![](MaqueteFT1.jpeg)  
+![](MaqueteFT2.jpeg)  
