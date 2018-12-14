@@ -1,12 +1,11 @@
 ﻿{
-	"version": 1544643328,
+	"version": 1544816958,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
 		"images/título-sheet0.png",
-		"images/newpiskel-sheet0.png",
 		"images/cenarioexemlofelipe-sheet0.png",
 		"images/personagem-sheet0.png",
 		"images/tbgrama.png",
