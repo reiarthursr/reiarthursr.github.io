@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544816958,
+	"version": 1545064428,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,12 +14,12 @@
 		"images/tmhudbatalha.png",
 		"images/thp1.png",
 		"images/bataque.png",
+		"images/tselecionar1.png",
 		"images/siconevida-sheet0.png",
 		"images/siconemana-sheet0.png",
 		"images/siconeatk-sheet0.png",
 		"images/siconemag-sheet0.png",
 		"images/siconehp-sheet0.png",
-		"images/thud.png",
 		"images/siconemp-sheet0.png",
 		"images/siconehpi-sheet0.png",
 		"images/bvoltarpassarturno-sheet0.png",
