@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545064428,
+	"version": 1545162075,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,15 @@
 		"images/sbotãoverdeenter-sheet0.png",
 		"images/tbneve.png",
 		"images/sretângulopreto-sheet0.png",
+		"images/tbbotãoenter.png",
+		"images/tbbotão1.png",
+		"images/tbbotão2.png",
+		"images/tbbotão3.png",
+		"images/tbbotão4.png",
+		"images/tbbotãoq.png",
+		"images/tbbotãoa.png",
+		"images/tbbotãod.png",
+		"images/tbbotãoe.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
