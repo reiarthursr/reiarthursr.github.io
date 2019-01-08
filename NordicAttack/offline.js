@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545939992,
+	"version": 1546974129,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -60,6 +60,8 @@
 		"images/tbbotãod.png",
 		"images/tbbotãoe.png",
 		"images/tbcastelo.png",
+		"media/ataque.m4a",
+		"media/ataque.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
