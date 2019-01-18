@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547755583,
+	"version": 1547835550,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,7 +40,6 @@
 		"images/tprecoitem1p1.png",
 		"images/sitem-sheet0.png",
 		"images/spoção-sheet0.png",
-		"images/spoção-sheet1.png",
 		"images/sentradadalojae-sheet0.png",
 		"images/sentradadalojap-sheet0.png",
 		"images/steletransporte-sheet0.png",
@@ -66,6 +65,8 @@
 		"images/logo-sheet0.png",
 		"media/ataque.m4a",
 		"media/ataque.ogg",
+		"media/397946__inspectorj__footsteps-snow-a.m4a",
+		"media/397946__inspectorj__footsteps-snow-a.ogg",
 		"media/música_de_misterio.m4a",
 		"media/música_de_misterio.ogg",
 		"icon-16.png",
