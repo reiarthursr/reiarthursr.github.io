@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547835550,
+	"version": 1547916467,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -63,6 +63,7 @@
 		"images/tbcastelo.png",
 		"images/tutorialandar-sheet0.png",
 		"images/logo-sheet0.png",
+		"images/tbfundoescuro.png",
 		"media/ataque.m4a",
 		"media/ataque.ogg",
 		"media/397946__inspectorj__footsteps-snow-a.m4a",
