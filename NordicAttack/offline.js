@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1549399316,
+	"version": 1549473176,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -69,6 +69,10 @@
 		"media/ataque.ogg",
 		"media/397946__inspectorj__footsteps-snow-a.m4a",
 		"media/397946__inspectorj__footsteps-snow-a.ogg",
+		"media/som de magia (online-audio-converter.com).m4a",
+		"media/som de magia (online-audio-converter.com).ogg",
+		"media/som de espada.m4a",
+		"media/som de espada.ogg",
 		"media/música_de_misterio.m4a",
 		"media/música_de_misterio.ogg",
 		"icon-16.png",
